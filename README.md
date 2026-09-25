@@ -8,9 +8,9 @@ This repository contains a **post-hackathon V2** developed after our original Da
 
 ## Team
 
-- Taseen Ariq
-- Kelly Chen
-- Mahira Sharif
+- [Taseen Ariq](https://www.linkedin.com/in/taseenariq06/?trk=opento_sprofile_details)
+- [Kelly Chen](https://www.linkedin.com/in/kelly-chen-a3b2a9437/)
+- [Mahira Sharif](https://www.linkedin.com/in/mahira-sharif-a083173a0/)
 
 ## Links
 
