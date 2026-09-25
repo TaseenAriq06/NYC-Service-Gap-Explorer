@@ -15,8 +15,8 @@ This repository contains a **post-hackathon V2** developed after our original AI
 
 ## Links
 
-- **Interactive dashboard:** [[Databricks Dashboard]](https://dbc-5f5c0858-d1a8.cloud.databricks.com/dashboardsv3/01f1b8414d6f1ea1a512b769d302ee46/published?o=7474659023620294)
-- **Devpost submission:** [[Devpost Link]](https://devpost.com/software/does-the-city-show-up-nyc-zip-explorer?ref_content=my-projects-tab&ref_feature=my_projects)
+- **Interactive dashboard:** [Databricks Dashboard](https://dbc-5f5c0858-d1a8.cloud.databricks.com/dashboardsv3/01f1b8414d6f1ea1a512b769d302ee46/published?o=7474659023620294)
+- **Devpost submission:** [Devpost Link](https://devpost.com/software/does-the-city-show-up-nyc-zip-explorer?ref_content=my-projects-tab&ref_feature=my_projects)
 
 ## Inspiration
 
