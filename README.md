@@ -5,7 +5,7 @@
 
 ## Project Status
 
-This repository contains a **post-hackathon V2** developed after our original AI Databricks Hackathon @ Queens College presentation. V2 incorporates judge feedback and corrects issues involving record provenance, dataset grain, small samples, coordinate concentration, and administrative closure timing.
+This repository contains a **post-hackathon Version 2** developed after our original AI Databricks Hackathon @ Queens College presentation. V2 incorporates judge feedback and corrects issues involving record provenance, dataset grain, small samples, coordinate concentration, and administrative closure timing.
 
 ## Team
 
