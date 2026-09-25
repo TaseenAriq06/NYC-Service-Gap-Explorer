@@ -1,3 +1,4 @@
+![AI Databricks Hackathon @ Queens College](screenshots/ai-hackathon.png)
 # Does the City Show Up? — NYC ZIP Explorer
 
 > A Databricks analysis comparing resident rat-report pressure with restaurant inspection activity across NYC ZIP codes.
