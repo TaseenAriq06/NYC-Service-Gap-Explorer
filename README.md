@@ -285,7 +285,6 @@ Transparent limitations make the analysis more useful. A high index identifies a
 ## Repository Structure
 
 ```text
-.
 ├── README.md
 ├── sql/
 │   ├── 01_clean_rat_records.sql
